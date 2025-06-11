@@ -5,7 +5,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"errors"
-	"github.com/mattn/go-shellwords"
+	"github.com/caarlos0/go-shellwords"
 	"strings"
 )
 
